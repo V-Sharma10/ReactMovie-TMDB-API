@@ -4,7 +4,6 @@
   "private": true,
   "homepage": "https://V-Sharma10.github.io/ReactMovie-TMDB-API/",
   "dependencies": {
-    "gh-pages": "^2.0.1",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "react-fontawesome": "^1.6.1",
